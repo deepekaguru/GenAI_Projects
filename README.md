@@ -1,5 +1,7 @@
 # GenAI_Projects
 
+<img width="802" height="479" alt="image" src="https://github.com/user-attachments/assets/2c46bf84-9f7e-4c10-91e0-fc606e1c1d96" />
+
 # 💊 DrugInfoGen – Know Your Medicine
 
 DrugInfoGen is a user-friendly web application designed to help people quickly understand medications. Whether you're curious about a medication you've been prescribed or seeking treatment options for a common condition, this tool provides easy access to reliable, readable information.
